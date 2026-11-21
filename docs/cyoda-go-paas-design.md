@@ -353,7 +353,7 @@ v1: manual, checklist-driven. v2: automate behind a control-plane "graduate" act
 
 ## Appendix B — References
 
-- `cyoda-go` source: github.com/Cyoda-platform/cyoda-go
+- `cyoda-go` source: github.com/Cyoda/cyoda-go
 - Docs: docs.cyoda.net (see *Client compute nodes*, *Workflows and processors*, *Configuration*, *Authentication and identity*, *Cyoda Cloud*)
 - Cyoda Cloud / platform: cyoda.com
 

@@ -36,7 +36,7 @@ These changes implement that approach for Cyoda.
 | Right | LinkedIn icon | External link | linkedin.com/company/cyoda |
 | Right | X (Twitter) icon | External link | twitter.com/cyodaops |
 | Right | YouTube icon | External link | youtube.com/@cyoda934 |
-| Right | GitHub icon | External link | github.com/Cyoda-platform/ |
+| Right | GitHub icon | External link | github.com/Cyoda/ |
 | Right | Dark mode toggle | Button | (theme toggle) |
 | Right | Contact | Link | `/support#contact` |
 | Right | Try Now | Button/CTA | (modal or `/pricing`) |

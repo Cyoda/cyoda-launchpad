@@ -112,7 +112,7 @@ const CyodaCloud = () => (
             <p className="text-sm text-muted-foreground mb-6">
               Star{' '}
               <a
-                href="https://github.com/Cyoda-platform/cyoda-cloud-cli"
+                href="https://github.com/Cyoda/cyoda-cloud-cli"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-primary hover:text-primary/80 underline underline-offset-2"
@@ -122,7 +122,7 @@ const CyodaCloud = () => (
               on GitHub instead — every star is a vote to ship this sooner.
             </p>
             <a
-              href="https://github.com/Cyoda-platform/cyoda-cloud-cli"
+              href="https://github.com/Cyoda/cyoda-cloud-cli"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 rounded-md border border-border bg-card font-semibold text-sm text-foreground hover:border-primary/40 transition-colors"

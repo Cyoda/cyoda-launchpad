@@ -48,7 +48,7 @@ const Footer = () => {
     },
     {
       icon: SiGithub,
-      href: "https://github.com/Cyoda-platform/",
+      href: "https://github.com/Cyoda/",
       label: "GitHub",
       hoverColor: "hover:text-gray-300",
     },

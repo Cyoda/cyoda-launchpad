@@ -223,7 +223,7 @@ Effective memory management is crucial for maintaining continuity and context in
               "type": "question",
               "question": "💡 What kind of application would you like to build? I'd love to hear your ideas! Feel free to share them with me! 😊",
               "example_answers": [
-                "Hello, I would like to download the following data: [London Houses Data](https://raw.githubusercontent.com/Cyoda-platform/cyoda-ai/refs/heads/ai-2.x/data/test-inputs/v1/connections/london_houses.csv), analyze it using **pandas**, and save a report. 📊"
+                "Hello, I would like to download the following data: [London Houses Data](https://raw.githubusercontent.com/Cyoda/cyoda-ai/refs/heads/ai-2.x/data/test-inputs/v1/connections/london_houses.csv), analyze it using **pandas**, and save a report. 📊"
               ],
               "publish": true,
               "allow_anonymous_users": true
